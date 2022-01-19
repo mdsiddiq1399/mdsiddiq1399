@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mdsiddiq1399
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning TS
+- 💞️ I’m looking to collaborate with someone who learns TS
+- 📫 Reach me through mdsiddiq1399@gmail.com
